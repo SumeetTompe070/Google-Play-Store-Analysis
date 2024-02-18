@@ -47,6 +47,11 @@ MS Word for documentation.
 # Key Insights
 These insights are based on a total of 8K apps in the Google Play Store:
 Family and Games are the top categories with the most apps.
+
 Personalization and Games are the top two categories with the highest ratings.
+
 Games and Communication emerge as the two leading categories with the highest number of installations.
-![HDRI](https://github.com/SumeetTompe070/Google-Play-Store-Analysis/assets/140255237/75f9f9e9-d74c-40a0-8878-09f8118f0375)
+
+![gps](https://github.com/SumeetTompe070/Google-Play-Store-Analysis/assets/140255237/ffe164b8-b4df-45de-b30a-cf16dbaba599)
+
+
